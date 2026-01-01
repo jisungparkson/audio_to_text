@@ -1,0 +1,5 @@
+{
+  "name": "AI Voice Transcriber",
+  "description": "Convert MP3 and audio files to text subtitles instantly using Gemini AI.",
+  "requestFramePermissions": []
+}
